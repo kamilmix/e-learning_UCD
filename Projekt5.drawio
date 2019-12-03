@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-03T14:10:16.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_USD0a9p4bgAgdCVBkGf" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T14:20:00.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="POyZdBh_WBN1RbyEBZZc" version="12.3.5" type="github" pages="1">
   <diagram id="4SWU4eUbrJS28rjVWbkO" name="Page-1">
-    <mxGraphModel dx="1024" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -25,8 +25,8 @@
         <mxCell id="aX9fKnEM7WXx84HFnky1-17" value="IOfertaAukcji" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="65" width="90" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="aX9fKnEM7WXx84HFnky1-18" value="IPanelSterujący" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="65" width="90" height="50" as="geometry"/>
+        <mxCell id="aX9fKnEM7WXx84HFnky1-18" value="ISystemSterujący" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="65" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="aX9fKnEM7WXx84HFnky1-20" value=":Sprzedający" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="65" width="90" height="50" as="geometry"/>
@@ -347,6 +347,18 @@
         </mxCell>
         <mxCell id="aX9fKnEM7WXx84HFnky1-131" value="[dane są poprawne]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="1370" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="aX9fKnEM7WXx84HFnky1-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="475" y="584" width="20" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="aX9fKnEM7WXx84HFnky1-134" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="597" as="sourcePoint"/>
+            <mxPoint x="465" y="597" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX9fKnEM7WXx84HFnky1-136" value="wyslijEmail(status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="574" width="110" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
